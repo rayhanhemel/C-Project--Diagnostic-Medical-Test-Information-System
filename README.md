@@ -1,0 +1,2 @@
+# Diagnostic-Medical-Test-Information-System
+This project is about medical tests for diagnostics. In medicine, a diagnostic’s medical test is any kind of medical test performed to aid in the diagnosis or detection of disease. A diagnostic test is a procedure performed to confirm, or determine the presence of disease in an individual suspected of having the disease, usually following the report of symptoms, or based on the results of other medical tests.
